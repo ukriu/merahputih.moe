@@ -7,6 +7,7 @@ export const data: ICnames = {
     "lust": "sinkaroid.github.io/lustpress",
     "scathach": "scathachgrip.github.io",
     "tekaje": "zarxd.github.io/tkj-one-gallery",
+    "ukriu": "ukriu.pages.dev",
     "wibuapi": "wibuapi.onrender.com",
     "zyxdevs": "zyxdevs.github.io/zYxDevs",
   }
